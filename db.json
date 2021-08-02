@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 4,
+      "message": "Fixed network server workstation 005",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-08-01T23:28:48.616Z"
+    },
+    {
+      "message": "Changed network card of server 007",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-08-01T18:37:18.868Z",
+      "id": 5
+    },
+    {
+      "message": "Hard drive failed 002",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-08-01T18:38:08.051Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
